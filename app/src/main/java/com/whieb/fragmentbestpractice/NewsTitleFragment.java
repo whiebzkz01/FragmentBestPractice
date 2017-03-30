@@ -69,7 +69,7 @@ public class NewsTitleFragment extends Fragment {
         if (getActivity().findViewById(R.id.news_content_layout ) != null){
             isTwoPane = true;
         }else {
-            isTwoPane =false;
+            isTwoPane = false;
         }
     }
 
